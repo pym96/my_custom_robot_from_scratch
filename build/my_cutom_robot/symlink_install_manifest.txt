@@ -1,10 +1,13 @@
 /home/dan/train/train/MA_training/Build_your_custom_robot/install/my_cutom_robot/share/my_cutom_robot/config/first_demo.rviz
+/home/dan/train/train/MA_training/Build_your_custom_robot/install/my_cutom_robot/share/my_cutom_robot/config/second_demo.rviz
 /home/dan/train/train/MA_training/Build_your_custom_robot/install/my_cutom_robot/share/my_cutom_robot/description/gazebo_control.xacro
 /home/dan/train/train/MA_training/Build_your_custom_robot/install/my_cutom_robot/share/my_cutom_robot/description/inertial_macros.xacro
+/home/dan/train/train/MA_training/Build_your_custom_robot/install/my_cutom_robot/share/my_cutom_robot/description/lidar.xacro
 /home/dan/train/train/MA_training/Build_your_custom_robot/install/my_cutom_robot/share/my_cutom_robot/description/robot.urdf.xacro
 /home/dan/train/train/MA_training/Build_your_custom_robot/install/my_cutom_robot/share/my_cutom_robot/description/robot_core.xacro
 /home/dan/train/train/MA_training/Build_your_custom_robot/install/my_cutom_robot/share/my_cutom_robot/launch/launch_sim.launch.py
 /home/dan/train/train/MA_training/Build_your_custom_robot/install/my_cutom_robot/share/my_cutom_robot/launch/rsp.launch.py
+/home/dan/train/train/MA_training/Build_your_custom_robot/install/my_cutom_robot/share/my_cutom_robot/worlds/first_world.world
 /home/dan/train/train/MA_training/Build_your_custom_robot/install/my_cutom_robot/share/ament_index/resource_index/package_run_dependencies/my_cutom_robot
 /home/dan/train/train/MA_training/Build_your_custom_robot/install/my_cutom_robot/share/ament_index/resource_index/parent_prefix_path/my_cutom_robot
 /home/dan/train/train/MA_training/Build_your_custom_robot/install/my_cutom_robot/share/my_cutom_robot/environment/ament_prefix_path.sh

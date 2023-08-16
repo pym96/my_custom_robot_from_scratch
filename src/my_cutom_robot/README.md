@@ -24,6 +24,11 @@ ros2 run gazebo_ros spawn_entity.py -topic robot_description -entity demo
 ''''
 Spawn your urdf robot into gazebo 
 
+'''
+ros2 run teleop_twist_keyboard teleop_twist_keyboard 
+'''
+Move your robot in Gazebo
+
 
 ## Due to the complexity of publishing different nodes once
 Use:
