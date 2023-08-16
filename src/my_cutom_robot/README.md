@@ -29,6 +29,10 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 '''
 Move your robot in Gazebo
 
+'''
+sudo apt install ros-humble-image-transport-plugis
+'''
+To compress your image when transport them in different topics
 
 ## Due to the complexity of publishing different nodes once
 Use:
