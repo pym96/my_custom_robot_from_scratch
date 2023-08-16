@@ -31,6 +31,8 @@ Move your robot in Gazebo
 
 '''
 sudo apt install ros-humble-image-transport-plugis
+sudo apt install ros-humble-rqt-image-view
+ros2 run rqt_image_view rqt_image_view 
 '''
 To compress your image when transport them in different topics
 
