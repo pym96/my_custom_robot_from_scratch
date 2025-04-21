@@ -1,1 +1,0 @@
-/home/dan/train/train/MA_training/Build_your_custom_robot/build/my_cutom_robot/ament_cmake_core/my_cutom_robotConfig-version.cmake
